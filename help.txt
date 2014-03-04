@@ -1,0 +1,10 @@
+保存生成的类中的代码段不被下次覆盖，继续保留。
+
+// KEEP INCLUDES - put your custom includes here
+// KEEP INCLUDES END
+...
+// KEEP FIELDS - put your custom fields here
+// KEEP FIELDS END
+...
+// KEEP METHODS - put your custom methods here
+// KEEP METHODS END
